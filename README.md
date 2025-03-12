@@ -1,1 +1,1 @@
-# Introduction-To-AI-By-IBM
+# Introduction-To-Responsible AI-By-Google Cloud
